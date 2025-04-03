@@ -1,0 +1,19 @@
+{
+  "version": "0.10.2",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.10.2/beszel-agent_windows_amd64.zip",
+      "bin": ["beszel-agent.exe"],
+      "hash": "ae287680b55b078fcb0feb5fe1dec462aa41ca505d07c085aa4ec7280c12f10a"
+    },
+    "arm64": {
+      "url": "https://github.com/henrygd/beszel/releases/download/v0.10.2/beszel-agent_windows_arm64.zip",
+      "bin": ["beszel-agent.exe"],
+      "hash": "9b221d4391a8a08c378f790404802b02fe814fdbd9caa390605163ed45e6f794"
+    }
+  },
+  "homepage": "https://beszel.dev",
+  "license": "MIT",
+  "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts."
+}
+
