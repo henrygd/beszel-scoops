@@ -1,19 +1,19 @@
 {
-    "version": "0.11.0",
+    "version": "0.11.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/henrygd/beszel/releases/download/v0.11.0/beszel-agent_windows_amd64.zip",
+            "url": "https://github.com/henrygd/beszel/releases/download/v0.11.1/beszel-agent_windows_amd64.zip",
             "bin": [
                 "beszel-agent.exe"
             ],
-            "hash": "f50944e972449ac61f4648605677c89b0a07538086fbb4a2cc608188d9b1fdbe"
+            "hash": "66f4a766a506a236fd6e442b93b5af71a01cc1c715ff39d979621bddb2d9c08b"
         },
         "arm64": {
-            "url": "https://github.com/henrygd/beszel/releases/download/v0.11.0/beszel-agent_windows_arm64.zip",
+            "url": "https://github.com/henrygd/beszel/releases/download/v0.11.1/beszel-agent_windows_arm64.zip",
             "bin": [
                 "beszel-agent.exe"
             ],
-            "hash": "1116f4c3bb36d0e4399264a9bb2142908ef412a01eb0ffff13764d12ed613e3d"
+            "hash": "89fa228059a55ab7a09d85beff054c862833d850be91f6d96384ff2429f7496c"
         }
     },
     "homepage": "https://beszel.dev",
