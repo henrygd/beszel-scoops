@@ -6,14 +6,14 @@
             "bin": [
                 "beszel-agent.exe"
             ],
-            "hash": "22b7def0163b6167fdee0662a96520ad31a2c62a6af97f89e2c013cecf3352a6"
+            "hash": "b4fdaf23488c2bf1781a4c9de9b256e2d38192bdc3194c2b845e0576bc11be8b"
         },
         "arm64": {
             "url": "https://github.com/henrygd/beszel/releases/download/v0.12.0-beta1/beszel-agent_windows_arm64.zip",
             "bin": [
                 "beszel-agent.exe"
             ],
-            "hash": "9d09abc3824f567cddb4e41e9eff1095e0751c0511b8fb69639b416970490dd9"
+            "hash": "cba3fccc2177b2705069cfa7f0aad236567c93f25d226d3c2c95ea2fb0dae92e"
         }
     },
     "homepage": "https://beszel.dev",
